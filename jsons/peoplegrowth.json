@@ -1,0 +1,38 @@
+[
+    {
+        "name": "teen",
+        "gender": "female",
+        "age": 0.5,
+        "hp": 100
+    },
+    {
+        "name": "chaar",
+        "gender": "female",
+        "age": 0.5,
+        "hp": 100
+    },
+    {
+        "name": "teen",
+        "gender": "female",
+        "age": 0.5,
+        "hp": 100
+    },
+    {
+        "name": "alpha",
+        "gender": "male",
+        "age": 0.5,
+        "hp": 100
+    },
+    {
+        "name": "delta",
+        "gender": "male",
+        "age": 0.5,
+        "hp": 100
+    },
+    {
+        "name": "beta",
+        "gender": "male",
+        "age": 0.5,
+        "hp": 100
+    }
+]
