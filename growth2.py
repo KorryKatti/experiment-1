@@ -18,8 +18,8 @@ try:
 
         print("Age updated and saved to peoplegrowth.json.")
 
-        # Sleep for 60 seconds (1 minute)
-        time.sleep(60)
+        # Sleep for 15 seconds 
+        time.sleep(15)
 
 except KeyboardInterrupt:
     print("\nScript stopped by user.")
