@@ -10,13 +10,13 @@ female_people = []
 male_people = []
 
 # Generate starting HP
-starting_hp = 100
+starting_hp = 100.0
 
 for _ in range(3):
     female_name = random.choice(female_names)
     male_name = random.choice(male_names)
-    female_people.append({"name": female_name, "gender": "female", "age": 0, "hp": starting_hp})
-    male_people.append({"name": male_name, "gender": "male", "age": 0, "hp": starting_hp})
+    female_people.append({"name": female_name, "gender": "female", "age": 0.0, "hp": starting_hp})
+    male_people.append({"name": male_name, "gender": "male", "age": 0.0, "hp": starting_hp})
 
 # Combine female and male people
 people = female_people + male_people
