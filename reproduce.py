@@ -41,5 +41,5 @@ while True:
     else:
         print("No eligible parents found for childbirth.")
 
-    # Sleep for 2 minutes
-    time.sleep(120)
+    # Sleep for 119 seconds
+    time.sleep(119)

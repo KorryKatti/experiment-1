@@ -2,37 +2,37 @@
     {
         "name": "ek",
         "gender": "female",
-        "age": 2.0,
+        "age": 12.0,
         "hp": 100
     },
     {
         "name": "chaar",
         "gender": "female",
-        "age": 2.0,
+        "age": 12.0,
         "hp": 100
     },
     {
         "name": "ek",
         "gender": "female",
-        "age": 2.0,
+        "age": 12.0,
         "hp": 20
     },
     {
         "name": "gamma",
         "gender": "male",
-        "age": 2.0,
+        "age": 12.0,
         "hp": 100
     },
     {
         "name": "delta",
         "gender": "male",
-        "age": 2.0,
+        "age": 12.0,
         "hp": 100
     },
     {
         "name": "beta",
         "gender": "male",
-        "age": 2.0,
-        "hp": 100
+        "age": 12.0,
+        "hp": 0
     }
 ]
