@@ -6,7 +6,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "f9"
     },
     {
@@ -16,7 +16,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "i1"
     },
     {
@@ -26,7 +26,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "p16"
     },
     {
@@ -36,7 +36,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "agility",
-        "age": 0,
+        "age": 20,
         "location_born": "q1"
     },
     {
@@ -46,7 +46,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "e7"
     },
     {
@@ -56,7 +56,7 @@
         "hp": 100,
         "dominant_trait": "strength",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "o9"
     },
     {
@@ -66,7 +66,7 @@
         "hp": 100,
         "dominant_trait": "strength",
         "recessive_trait": "agility",
-        "age": 0,
+        "age": 20,
         "location_born": "r12"
     },
     {
@@ -76,7 +76,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "t18"
     },
     {
@@ -86,7 +86,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "r1"
     },
     {
@@ -96,7 +96,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "s15"
     },
     {
@@ -106,7 +106,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "i15"
     },
     {
@@ -116,7 +116,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "n6"
     },
     {
@@ -126,7 +126,7 @@
         "hp": 100,
         "dominant_trait": "intelligence",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "a6"
     },
     {
@@ -136,7 +136,7 @@
         "hp": 100,
         "dominant_trait": "strength",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "f9"
     },
     {
@@ -146,7 +146,7 @@
         "hp": 100,
         "dominant_trait": "strength",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "d3"
     },
     {
@@ -156,7 +156,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "e15"
     },
     {
@@ -166,7 +166,7 @@
         "hp": 100,
         "dominant_trait": "agility",
         "recessive_trait": "strength",
-        "age": 0,
+        "age": 20,
         "location_born": "r5"
     },
     {
@@ -176,7 +176,25 @@
         "hp": 100,
         "dominant_trait": "strength",
         "recessive_trait": "intelligence",
-        "age": 0,
+        "age": 20,
         "location_born": "m6"
+    },
+    {
+        "name": "Snpbahu",
+        "year_born": 57252336,
+        "hp": 100,
+        "dominant_trait": "strength",
+        "recessive_trait": "intelligence",
+        "age": 2,
+        "location_born": "i15"
+    },
+    {
+        "name": "Fusnrhi",
+        "year_born": 57252336,
+        "hp": 100,
+        "dominant_trait": "agility",
+        "recessive_trait": "intelligence",
+        "age": 0,
+        "location_born": "o9"
     }
 ]
