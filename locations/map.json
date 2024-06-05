@@ -1,0 +1,1604 @@
+{
+  "map": [
+    {
+      "location": "a1",
+      "feature": "sea"
+    },
+    {
+      "location": "b1",
+      "feature": "sea"
+    },
+    {
+      "location": "c1",
+      "feature": "mountains"
+    },
+    {
+      "location": "d1",
+      "feature": "mountains"
+    },
+    {
+      "location": "e1",
+      "feature": "land"
+    },
+    {
+      "location": "f1",
+      "feature": "mountains"
+    },
+    {
+      "location": "g1",
+      "feature": "land"
+    },
+    {
+      "location": "h1",
+      "feature": "mountains"
+    },
+    {
+      "location": "i1",
+      "feature": "mountains"
+    },
+    {
+      "location": "j1",
+      "feature": "mountains"
+    },
+    {
+      "location": "k1",
+      "feature": "land"
+    },
+    {
+      "location": "l1",
+      "feature": "sea"
+    },
+    {
+      "location": "m1",
+      "feature": "sea"
+    },
+    {
+      "location": "n1",
+      "feature": "land"
+    },
+    {
+      "location": "o1",
+      "feature": "sea"
+    },
+    {
+      "location": "p1",
+      "feature": "sea"
+    },
+    {
+      "location": "q1",
+      "feature": "land"
+    },
+    {
+      "location": "r1",
+      "feature": "land"
+    },
+    {
+      "location": "s1",
+      "feature": "sea"
+    },
+    {
+      "location": "t1",
+      "feature": "sea"
+    },
+    {
+      "location": "a2",
+      "feature": "land"
+    },
+    {
+      "location": "b2",
+      "feature": "mountains"
+    },
+    {
+      "location": "c2",
+      "feature": "sea"
+    },
+    {
+      "location": "d2",
+      "feature": "sea"
+    },
+    {
+      "location": "e2",
+      "feature": "land"
+    },
+    {
+      "location": "f2",
+      "feature": "land"
+    },
+    {
+      "location": "g2",
+      "feature": "sea"
+    },
+    {
+      "location": "h2",
+      "feature": "sea"
+    },
+    {
+      "location": "i2",
+      "feature": "land"
+    },
+    {
+      "location": "j2",
+      "feature": "mountains"
+    },
+    {
+      "location": "k2",
+      "feature": "mountains"
+    },
+    {
+      "location": "l2",
+      "feature": "mountains"
+    },
+    {
+      "location": "m2",
+      "feature": "land"
+    },
+    {
+      "location": "n2",
+      "feature": "mountains"
+    },
+    {
+      "location": "o2",
+      "feature": "mountains"
+    },
+    {
+      "location": "p2",
+      "feature": "sea"
+    },
+    {
+      "location": "q2",
+      "feature": "land"
+    },
+    {
+      "location": "r2",
+      "feature": "sea"
+    },
+    {
+      "location": "s2",
+      "feature": "sea"
+    },
+    {
+      "location": "t2",
+      "feature": "sea"
+    },
+    {
+      "location": "a3",
+      "feature": "mountains"
+    },
+    {
+      "location": "b3",
+      "feature": "mountains"
+    },
+    {
+      "location": "c3",
+      "feature": "sea"
+    },
+    {
+      "location": "d3",
+      "feature": "mountains"
+    },
+    {
+      "location": "e3",
+      "feature": "mountains"
+    },
+    {
+      "location": "f3",
+      "feature": "land"
+    },
+    {
+      "location": "g3",
+      "feature": "sea"
+    },
+    {
+      "location": "h3",
+      "feature": "sea"
+    },
+    {
+      "location": "i3",
+      "feature": "mountains"
+    },
+    {
+      "location": "j3",
+      "feature": "land"
+    },
+    {
+      "location": "k3",
+      "feature": "mountains"
+    },
+    {
+      "location": "l3",
+      "feature": "land"
+    },
+    {
+      "location": "m3",
+      "feature": "land"
+    },
+    {
+      "location": "n3",
+      "feature": "land"
+    },
+    {
+      "location": "o3",
+      "feature": "land"
+    },
+    {
+      "location": "p3",
+      "feature": "sea"
+    },
+    {
+      "location": "q3",
+      "feature": "land"
+    },
+    {
+      "location": "r3",
+      "feature": "land"
+    },
+    {
+      "location": "s3",
+      "feature": "sea"
+    },
+    {
+      "location": "t3",
+      "feature": "sea"
+    },
+    {
+      "location": "a4",
+      "feature": "land"
+    },
+    {
+      "location": "b4",
+      "feature": "sea"
+    },
+    {
+      "location": "c4",
+      "feature": "land"
+    },
+    {
+      "location": "d4",
+      "feature": "sea"
+    },
+    {
+      "location": "e4",
+      "feature": "mountains"
+    },
+    {
+      "location": "f4",
+      "feature": "sea"
+    },
+    {
+      "location": "g4",
+      "feature": "mountains"
+    },
+    {
+      "location": "h4",
+      "feature": "sea"
+    },
+    {
+      "location": "i4",
+      "feature": "mountains"
+    },
+    {
+      "location": "j4",
+      "feature": "land"
+    },
+    {
+      "location": "k4",
+      "feature": "sea"
+    },
+    {
+      "location": "l4",
+      "feature": "mountains"
+    },
+    {
+      "location": "m4",
+      "feature": "sea"
+    },
+    {
+      "location": "n4",
+      "feature": "land"
+    },
+    {
+      "location": "o4",
+      "feature": "sea"
+    },
+    {
+      "location": "p4",
+      "feature": "land"
+    },
+    {
+      "location": "q4",
+      "feature": "land"
+    },
+    {
+      "location": "r4",
+      "feature": "mountains"
+    },
+    {
+      "location": "s4",
+      "feature": "sea"
+    },
+    {
+      "location": "t4",
+      "feature": "sea"
+    },
+    {
+      "location": "a5",
+      "feature": "mountains"
+    },
+    {
+      "location": "b5",
+      "feature": "mountains"
+    },
+    {
+      "location": "c5",
+      "feature": "mountains"
+    },
+    {
+      "location": "d5",
+      "feature": "land"
+    },
+    {
+      "location": "e5",
+      "feature": "sea"
+    },
+    {
+      "location": "f5",
+      "feature": "sea"
+    },
+    {
+      "location": "g5",
+      "feature": "sea"
+    },
+    {
+      "location": "h5",
+      "feature": "sea"
+    },
+    {
+      "location": "i5",
+      "feature": "mountains"
+    },
+    {
+      "location": "j5",
+      "feature": "sea"
+    },
+    {
+      "location": "k5",
+      "feature": "mountains"
+    },
+    {
+      "location": "l5",
+      "feature": "mountains"
+    },
+    {
+      "location": "m5",
+      "feature": "sea"
+    },
+    {
+      "location": "n5",
+      "feature": "sea"
+    },
+    {
+      "location": "o5",
+      "feature": "land"
+    },
+    {
+      "location": "p5",
+      "feature": "sea"
+    },
+    {
+      "location": "q5",
+      "feature": "land"
+    },
+    {
+      "location": "r5",
+      "feature": "land"
+    },
+    {
+      "location": "s5",
+      "feature": "mountains"
+    },
+    {
+      "location": "t5",
+      "feature": "land"
+    },
+    {
+      "location": "a6",
+      "feature": "land"
+    },
+    {
+      "location": "b6",
+      "feature": "mountains"
+    },
+    {
+      "location": "c6",
+      "feature": "sea"
+    },
+    {
+      "location": "d6",
+      "feature": "land"
+    },
+    {
+      "location": "e6",
+      "feature": "sea"
+    },
+    {
+      "location": "f6",
+      "feature": "land"
+    },
+    {
+      "location": "g6",
+      "feature": "sea"
+    },
+    {
+      "location": "h6",
+      "feature": "sea"
+    },
+    {
+      "location": "i6",
+      "feature": "sea"
+    },
+    {
+      "location": "j6",
+      "feature": "sea"
+    },
+    {
+      "location": "k6",
+      "feature": "sea"
+    },
+    {
+      "location": "l6",
+      "feature": "sea"
+    },
+    {
+      "location": "m6",
+      "feature": "land"
+    },
+    {
+      "location": "n6",
+      "feature": "mountains"
+    },
+    {
+      "location": "o6",
+      "feature": "land"
+    },
+    {
+      "location": "p6",
+      "feature": "sea"
+    },
+    {
+      "location": "q6",
+      "feature": "mountains"
+    },
+    {
+      "location": "r6",
+      "feature": "sea"
+    },
+    {
+      "location": "s6",
+      "feature": "sea"
+    },
+    {
+      "location": "t6",
+      "feature": "mountains"
+    },
+    {
+      "location": "a7",
+      "feature": "mountains"
+    },
+    {
+      "location": "b7",
+      "feature": "mountains"
+    },
+    {
+      "location": "c7",
+      "feature": "sea"
+    },
+    {
+      "location": "d7",
+      "feature": "mountains"
+    },
+    {
+      "location": "e7",
+      "feature": "land"
+    },
+    {
+      "location": "f7",
+      "feature": "sea"
+    },
+    {
+      "location": "g7",
+      "feature": "mountains"
+    },
+    {
+      "location": "h7",
+      "feature": "sea"
+    },
+    {
+      "location": "i7",
+      "feature": "sea"
+    },
+    {
+      "location": "j7",
+      "feature": "land"
+    },
+    {
+      "location": "k7",
+      "feature": "sea"
+    },
+    {
+      "location": "l7",
+      "feature": "land"
+    },
+    {
+      "location": "m7",
+      "feature": "mountains"
+    },
+    {
+      "location": "n7",
+      "feature": "sea"
+    },
+    {
+      "location": "o7",
+      "feature": "mountains"
+    },
+    {
+      "location": "p7",
+      "feature": "land"
+    },
+    {
+      "location": "q7",
+      "feature": "land"
+    },
+    {
+      "location": "r7",
+      "feature": "land"
+    },
+    {
+      "location": "s7",
+      "feature": "sea"
+    },
+    {
+      "location": "t7",
+      "feature": "sea"
+    },
+    {
+      "location": "a8",
+      "feature": "sea"
+    },
+    {
+      "location": "b8",
+      "feature": "land"
+    },
+    {
+      "location": "c8",
+      "feature": "mountains"
+    },
+    {
+      "location": "d8",
+      "feature": "sea"
+    },
+    {
+      "location": "e8",
+      "feature": "land"
+    },
+    {
+      "location": "f8",
+      "feature": "sea"
+    },
+    {
+      "location": "g8",
+      "feature": "land"
+    },
+    {
+      "location": "h8",
+      "feature": "mountains"
+    },
+    {
+      "location": "i8",
+      "feature": "land"
+    },
+    {
+      "location": "j8",
+      "feature": "mountains"
+    },
+    {
+      "location": "k8",
+      "feature": "mountains"
+    },
+    {
+      "location": "l8",
+      "feature": "land"
+    },
+    {
+      "location": "m8",
+      "feature": "mountains"
+    },
+    {
+      "location": "n8",
+      "feature": "sea"
+    },
+    {
+      "location": "o8",
+      "feature": "mountains"
+    },
+    {
+      "location": "p8",
+      "feature": "mountains"
+    },
+    {
+      "location": "q8",
+      "feature": "mountains"
+    },
+    {
+      "location": "r8",
+      "feature": "mountains"
+    },
+    {
+      "location": "s8",
+      "feature": "land"
+    },
+    {
+      "location": "t8",
+      "feature": "land"
+    },
+    {
+      "location": "a9",
+      "feature": "sea"
+    },
+    {
+      "location": "b9",
+      "feature": "sea"
+    },
+    {
+      "location": "c9",
+      "feature": "sea"
+    },
+    {
+      "location": "d9",
+      "feature": "sea"
+    },
+    {
+      "location": "e9",
+      "feature": "sea"
+    },
+    {
+      "location": "f9",
+      "feature": "mountains"
+    },
+    {
+      "location": "g9",
+      "feature": "mountains"
+    },
+    {
+      "location": "h9",
+      "feature": "land"
+    },
+    {
+      "location": "i9",
+      "feature": "land"
+    },
+    {
+      "location": "j9",
+      "feature": "mountains"
+    },
+    {
+      "location": "k9",
+      "feature": "land"
+    },
+    {
+      "location": "l9",
+      "feature": "land"
+    },
+    {
+      "location": "m9",
+      "feature": "land"
+    },
+    {
+      "location": "n9",
+      "feature": "mountains"
+    },
+    {
+      "location": "o9",
+      "feature": "mountains"
+    },
+    {
+      "location": "p9",
+      "feature": "land"
+    },
+    {
+      "location": "q9",
+      "feature": "mountains"
+    },
+    {
+      "location": "r9",
+      "feature": "land"
+    },
+    {
+      "location": "s9",
+      "feature": "mountains"
+    },
+    {
+      "location": "t9",
+      "feature": "land"
+    },
+    {
+      "location": "a10",
+      "feature": "sea"
+    },
+    {
+      "location": "b10",
+      "feature": "mountains"
+    },
+    {
+      "location": "c10",
+      "feature": "mountains"
+    },
+    {
+      "location": "d10",
+      "feature": "sea"
+    },
+    {
+      "location": "e10",
+      "feature": "sea"
+    },
+    {
+      "location": "f10",
+      "feature": "land"
+    },
+    {
+      "location": "g10",
+      "feature": "sea"
+    },
+    {
+      "location": "h10",
+      "feature": "mountains"
+    },
+    {
+      "location": "i10",
+      "feature": "mountains"
+    },
+    {
+      "location": "j10",
+      "feature": "land"
+    },
+    {
+      "location": "k10",
+      "feature": "land"
+    },
+    {
+      "location": "l10",
+      "feature": "mountains"
+    },
+    {
+      "location": "m10",
+      "feature": "sea"
+    },
+    {
+      "location": "n10",
+      "feature": "land"
+    },
+    {
+      "location": "o10",
+      "feature": "mountains"
+    },
+    {
+      "location": "p10",
+      "feature": "sea"
+    },
+    {
+      "location": "q10",
+      "feature": "sea"
+    },
+    {
+      "location": "r10",
+      "feature": "land"
+    },
+    {
+      "location": "s10",
+      "feature": "sea"
+    },
+    {
+      "location": "t10",
+      "feature": "sea"
+    },
+    {
+      "location": "a11",
+      "feature": "sea"
+    },
+    {
+      "location": "b11",
+      "feature": "land"
+    },
+    {
+      "location": "c11",
+      "feature": "sea"
+    },
+    {
+      "location": "d11",
+      "feature": "mountains"
+    },
+    {
+      "location": "e11",
+      "feature": "sea"
+    },
+    {
+      "location": "f11",
+      "feature": "land"
+    },
+    {
+      "location": "g11",
+      "feature": "land"
+    },
+    {
+      "location": "h11",
+      "feature": "land"
+    },
+    {
+      "location": "i11",
+      "feature": "land"
+    },
+    {
+      "location": "j11",
+      "feature": "land"
+    },
+    {
+      "location": "k11",
+      "feature": "mountains"
+    },
+    {
+      "location": "l11",
+      "feature": "land"
+    },
+    {
+      "location": "m11",
+      "feature": "mountains"
+    },
+    {
+      "location": "n11",
+      "feature": "mountains"
+    },
+    {
+      "location": "o11",
+      "feature": "sea"
+    },
+    {
+      "location": "p11",
+      "feature": "sea"
+    },
+    {
+      "location": "q11",
+      "feature": "sea"
+    },
+    {
+      "location": "r11",
+      "feature": "mountains"
+    },
+    {
+      "location": "s11",
+      "feature": "mountains"
+    },
+    {
+      "location": "t11",
+      "feature": "sea"
+    },
+    {
+      "location": "a12",
+      "feature": "sea"
+    },
+    {
+      "location": "b12",
+      "feature": "mountains"
+    },
+    {
+      "location": "c12",
+      "feature": "land"
+    },
+    {
+      "location": "d12",
+      "feature": "land"
+    },
+    {
+      "location": "e12",
+      "feature": "land"
+    },
+    {
+      "location": "f12",
+      "feature": "land"
+    },
+    {
+      "location": "g12",
+      "feature": "sea"
+    },
+    {
+      "location": "h12",
+      "feature": "mountains"
+    },
+    {
+      "location": "i12",
+      "feature": "sea"
+    },
+    {
+      "location": "j12",
+      "feature": "mountains"
+    },
+    {
+      "location": "k12",
+      "feature": "sea"
+    },
+    {
+      "location": "l12",
+      "feature": "sea"
+    },
+    {
+      "location": "m12",
+      "feature": "sea"
+    },
+    {
+      "location": "n12",
+      "feature": "sea"
+    },
+    {
+      "location": "o12",
+      "feature": "mountains"
+    },
+    {
+      "location": "p12",
+      "feature": "land"
+    },
+    {
+      "location": "q12",
+      "feature": "sea"
+    },
+    {
+      "location": "r12",
+      "feature": "land"
+    },
+    {
+      "location": "s12",
+      "feature": "mountains"
+    },
+    {
+      "location": "t12",
+      "feature": "mountains"
+    },
+    {
+      "location": "a13",
+      "feature": "mountains"
+    },
+    {
+      "location": "b13",
+      "feature": "sea"
+    },
+    {
+      "location": "c13",
+      "feature": "sea"
+    },
+    {
+      "location": "d13",
+      "feature": "land"
+    },
+    {
+      "location": "e13",
+      "feature": "sea"
+    },
+    {
+      "location": "f13",
+      "feature": "land"
+    },
+    {
+      "location": "g13",
+      "feature": "land"
+    },
+    {
+      "location": "h13",
+      "feature": "land"
+    },
+    {
+      "location": "i13",
+      "feature": "land"
+    },
+    {
+      "location": "j13",
+      "feature": "mountains"
+    },
+    {
+      "location": "k13",
+      "feature": "land"
+    },
+    {
+      "location": "l13",
+      "feature": "land"
+    },
+    {
+      "location": "m13",
+      "feature": "land"
+    },
+    {
+      "location": "n13",
+      "feature": "sea"
+    },
+    {
+      "location": "o13",
+      "feature": "mountains"
+    },
+    {
+      "location": "p13",
+      "feature": "sea"
+    },
+    {
+      "location": "q13",
+      "feature": "mountains"
+    },
+    {
+      "location": "r13",
+      "feature": "land"
+    },
+    {
+      "location": "s13",
+      "feature": "land"
+    },
+    {
+      "location": "t13",
+      "feature": "sea"
+    },
+    {
+      "location": "a14",
+      "feature": "mountains"
+    },
+    {
+      "location": "b14",
+      "feature": "land"
+    },
+    {
+      "location": "c14",
+      "feature": "land"
+    },
+    {
+      "location": "d14",
+      "feature": "mountains"
+    },
+    {
+      "location": "e14",
+      "feature": "sea"
+    },
+    {
+      "location": "f14",
+      "feature": "land"
+    },
+    {
+      "location": "g14",
+      "feature": "sea"
+    },
+    {
+      "location": "h14",
+      "feature": "sea"
+    },
+    {
+      "location": "i14",
+      "feature": "mountains"
+    },
+    {
+      "location": "j14",
+      "feature": "sea"
+    },
+    {
+      "location": "k14",
+      "feature": "mountains"
+    },
+    {
+      "location": "l14",
+      "feature": "land"
+    },
+    {
+      "location": "m14",
+      "feature": "mountains"
+    },
+    {
+      "location": "n14",
+      "feature": "land"
+    },
+    {
+      "location": "o14",
+      "feature": "land"
+    },
+    {
+      "location": "p14",
+      "feature": "land"
+    },
+    {
+      "location": "q14",
+      "feature": "mountains"
+    },
+    {
+      "location": "r14",
+      "feature": "sea"
+    },
+    {
+      "location": "s14",
+      "feature": "land"
+    },
+    {
+      "location": "t14",
+      "feature": "sea"
+    },
+    {
+      "location": "a15",
+      "feature": "mountains"
+    },
+    {
+      "location": "b15",
+      "feature": "sea"
+    },
+    {
+      "location": "c15",
+      "feature": "sea"
+    },
+    {
+      "location": "d15",
+      "feature": "sea"
+    },
+    {
+      "location": "e15",
+      "feature": "mountains"
+    },
+    {
+      "location": "f15",
+      "feature": "land"
+    },
+    {
+      "location": "g15",
+      "feature": "sea"
+    },
+    {
+      "location": "h15",
+      "feature": "sea"
+    },
+    {
+      "location": "i15",
+      "feature": "mountains"
+    },
+    {
+      "location": "j15",
+      "feature": "mountains"
+    },
+    {
+      "location": "k15",
+      "feature": "land"
+    },
+    {
+      "location": "l15",
+      "feature": "sea"
+    },
+    {
+      "location": "m15",
+      "feature": "mountains"
+    },
+    {
+      "location": "n15",
+      "feature": "land"
+    },
+    {
+      "location": "o15",
+      "feature": "mountains"
+    },
+    {
+      "location": "p15",
+      "feature": "sea"
+    },
+    {
+      "location": "q15",
+      "feature": "sea"
+    },
+    {
+      "location": "r15",
+      "feature": "sea"
+    },
+    {
+      "location": "s15",
+      "feature": "land"
+    },
+    {
+      "location": "t15",
+      "feature": "mountains"
+    },
+    {
+      "location": "a16",
+      "feature": "land"
+    },
+    {
+      "location": "b16",
+      "feature": "land"
+    },
+    {
+      "location": "c16",
+      "feature": "sea"
+    },
+    {
+      "location": "d16",
+      "feature": "sea"
+    },
+    {
+      "location": "e16",
+      "feature": "land"
+    },
+    {
+      "location": "f16",
+      "feature": "sea"
+    },
+    {
+      "location": "g16",
+      "feature": "land"
+    },
+    {
+      "location": "h16",
+      "feature": "sea"
+    },
+    {
+      "location": "i16",
+      "feature": "sea"
+    },
+    {
+      "location": "j16",
+      "feature": "mountains"
+    },
+    {
+      "location": "k16",
+      "feature": "sea"
+    },
+    {
+      "location": "l16",
+      "feature": "mountains"
+    },
+    {
+      "location": "m16",
+      "feature": "mountains"
+    },
+    {
+      "location": "n16",
+      "feature": "sea"
+    },
+    {
+      "location": "o16",
+      "feature": "mountains"
+    },
+    {
+      "location": "p16",
+      "feature": "mountains"
+    },
+    {
+      "location": "q16",
+      "feature": "mountains"
+    },
+    {
+      "location": "r16",
+      "feature": "mountains"
+    },
+    {
+      "location": "s16",
+      "feature": "mountains"
+    },
+    {
+      "location": "t16",
+      "feature": "mountains"
+    },
+    {
+      "location": "a17",
+      "feature": "mountains"
+    },
+    {
+      "location": "b17",
+      "feature": "land"
+    },
+    {
+      "location": "c17",
+      "feature": "mountains"
+    },
+    {
+      "location": "d17",
+      "feature": "land"
+    },
+    {
+      "location": "e17",
+      "feature": "land"
+    },
+    {
+      "location": "f17",
+      "feature": "sea"
+    },
+    {
+      "location": "g17",
+      "feature": "sea"
+    },
+    {
+      "location": "h17",
+      "feature": "land"
+    },
+    {
+      "location": "i17",
+      "feature": "sea"
+    },
+    {
+      "location": "j17",
+      "feature": "mountains"
+    },
+    {
+      "location": "k17",
+      "feature": "land"
+    },
+    {
+      "location": "l17",
+      "feature": "mountains"
+    },
+    {
+      "location": "m17",
+      "feature": "land"
+    },
+    {
+      "location": "n17",
+      "feature": "land"
+    },
+    {
+      "location": "o17",
+      "feature": "mountains"
+    },
+    {
+      "location": "p17",
+      "feature": "mountains"
+    },
+    {
+      "location": "q17",
+      "feature": "sea"
+    },
+    {
+      "location": "r17",
+      "feature": "sea"
+    },
+    {
+      "location": "s17",
+      "feature": "sea"
+    },
+    {
+      "location": "t17",
+      "feature": "sea"
+    },
+    {
+      "location": "a18",
+      "feature": "mountains"
+    },
+    {
+      "location": "b18",
+      "feature": "mountains"
+    },
+    {
+      "location": "c18",
+      "feature": "land"
+    },
+    {
+      "location": "d18",
+      "feature": "land"
+    },
+    {
+      "location": "e18",
+      "feature": "sea"
+    },
+    {
+      "location": "f18",
+      "feature": "land"
+    },
+    {
+      "location": "g18",
+      "feature": "land"
+    },
+    {
+      "location": "h18",
+      "feature": "sea"
+    },
+    {
+      "location": "i18",
+      "feature": "mountains"
+    },
+    {
+      "location": "j18",
+      "feature": "mountains"
+    },
+    {
+      "location": "k18",
+      "feature": "sea"
+    },
+    {
+      "location": "l18",
+      "feature": "mountains"
+    },
+    {
+      "location": "m18",
+      "feature": "land"
+    },
+    {
+      "location": "n18",
+      "feature": "mountains"
+    },
+    {
+      "location": "o18",
+      "feature": "land"
+    },
+    {
+      "location": "p18",
+      "feature": "mountains"
+    },
+    {
+      "location": "q18",
+      "feature": "mountains"
+    },
+    {
+      "location": "r18",
+      "feature": "land"
+    },
+    {
+      "location": "s18",
+      "feature": "mountains"
+    },
+    {
+      "location": "t18",
+      "feature": "mountains"
+    },
+    {
+      "location": "a19",
+      "feature": "mountains"
+    },
+    {
+      "location": "b19",
+      "feature": "mountains"
+    },
+    {
+      "location": "c19",
+      "feature": "mountains"
+    },
+    {
+      "location": "d19",
+      "feature": "sea"
+    },
+    {
+      "location": "e19",
+      "feature": "sea"
+    },
+    {
+      "location": "f19",
+      "feature": "land"
+    },
+    {
+      "location": "g19",
+      "feature": "mountains"
+    },
+    {
+      "location": "h19",
+      "feature": "sea"
+    },
+    {
+      "location": "i19",
+      "feature": "sea"
+    },
+    {
+      "location": "j19",
+      "feature": "mountains"
+    },
+    {
+      "location": "k19",
+      "feature": "sea"
+    },
+    {
+      "location": "l19",
+      "feature": "land"
+    },
+    {
+      "location": "m19",
+      "feature": "mountains"
+    },
+    {
+      "location": "n19",
+      "feature": "sea"
+    },
+    {
+      "location": "o19",
+      "feature": "sea"
+    },
+    {
+      "location": "p19",
+      "feature": "sea"
+    },
+    {
+      "location": "q19",
+      "feature": "land"
+    },
+    {
+      "location": "r19",
+      "feature": "land"
+    },
+    {
+      "location": "s19",
+      "feature": "mountains"
+    },
+    {
+      "location": "t19",
+      "feature": "land"
+    },
+    {
+      "location": "a20",
+      "feature": "mountains"
+    },
+    {
+      "location": "b20",
+      "feature": "mountains"
+    },
+    {
+      "location": "c20",
+      "feature": "sea"
+    },
+    {
+      "location": "d20",
+      "feature": "mountains"
+    },
+    {
+      "location": "e20",
+      "feature": "mountains"
+    },
+    {
+      "location": "f20",
+      "feature": "mountains"
+    },
+    {
+      "location": "g20",
+      "feature": "land"
+    },
+    {
+      "location": "h20",
+      "feature": "land"
+    },
+    {
+      "location": "i20",
+      "feature": "land"
+    },
+    {
+      "location": "j20",
+      "feature": "sea"
+    },
+    {
+      "location": "k20",
+      "feature": "mountains"
+    },
+    {
+      "location": "l20",
+      "feature": "land"
+    },
+    {
+      "location": "m20",
+      "feature": "sea"
+    },
+    {
+      "location": "n20",
+      "feature": "mountains"
+    },
+    {
+      "location": "o20",
+      "feature": "land"
+    },
+    {
+      "location": "p20",
+      "feature": "land"
+    },
+    {
+      "location": "q20",
+      "feature": "sea"
+    },
+    {
+      "location": "r20",
+      "feature": "mountains"
+    },
+    {
+      "location": "s20",
+      "feature": "mountains"
+    },
+    {
+      "location": "t20",
+      "feature": "land"
+    }
+  ]
+}
